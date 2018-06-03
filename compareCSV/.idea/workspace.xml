@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d5ce425-f2ec-445c-8fe2-034f239168c1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/compareCSV$comapre.coverage" NAME="comapre Coverage Results" MODIFIED="1520434425744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="comapre.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comapre.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ntpath.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Anaconda/Lib/ntpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genericpath.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Anaconda/Lib/genericpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Anaconda/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7018">
+              <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typing.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Anaconda/Lib/typing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50842">
+              <caret line="2318" column="8" lean-forward="false" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/nt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14300">
+              <caret line="650" column="4" lean-forward="false" selection-start-line="650" selection-start-column="4" selection-end-line="650" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Anaconda/Lib/csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#52#61#0" expanded="true" />
+                <element signature="e#1469#1542#0" expanded="false" />
+                <element signature="e#2413#2721#0" expanded="false" />
+                <element signature="e#2755#2766#0" expanded="false" />
+                <element signature="e#2816#3046#0" expanded="false" />
+                <element signature="e#2857#2969#0" expanded="false" />
+                <element signature="e#3112#3136#0" expanded="false" />
+                <element signature="e#3170#3845#0" expanded="false" />
+                <element signature="e#3205#3265#0" expanded="false" />
+                <element signature="e#3352#3410#0" expanded="false" />
+                <element signature="e#3758#3828#0" expanded="false" />
+                <element signature="e#3996#4400#0" expanded="false" />
+                <element signature="e#4194#4303#0" expanded="false" />
+                <element signature="e#4437#4519#0" expanded="false" />
+                <element signature="e#4567#4918#0" expanded="false" />
+                <element signature="e#4612#4843#0" expanded="false" />
+                <element signature="e#4705#4843#0" expanded="false" />
+                <element signature="e#4961#5017#0" expanded="false" />
+                <element signature="e#5062#5125#0" expanded="false" />
+                <element signature="e#5272#5379#1" expanded="false" />
+                <element signature="e#5412#5515#0" expanded="false" />
+                <element signature="e#5572#6465#0" expanded="false" />
+                <element signature="e#5572#5651#1" expanded="false" />
+                <element signature="e#5826#5961#0" expanded="false" />
+                <element signature="e#6091#6210#0" expanded="false" />
+                <element signature="e#6536#9346#0" expanded="false" />
+                <element signature="e#6536#6941#1" expanded="false" />
+                <element signature="e#6986#7363#0" expanded="false" />
+                <element signature="e#7435#7576#0" expanded="false" />
+                <element signature="e#7614#7709#0" expanded="false" />
+                <element signature="e#7846#8394#0" expanded="false" />
+                <element signature="e#8003#8057#0" expanded="false" />
+                <element signature="e#8476#8665#0" expanded="false" />
+                <element signature="e#8692#8810#0" expanded="false" />
+                <element signature="e#8820#8878#0" expanded="false" />
+                <element signature="e#9407#13630#0" expanded="false" />
+                <element signature="e#9407#10370#1" expanded="false" />
+                <element signature="e#10744#12882#0" expanded="false" />
+                <element signature="e#10816#11167#0" expanded="false" />
+                <element signature="e#10855#11167#0" expanded="false" />
+                <element signature="e#11231#11858#0" expanded="false" />
+                <element signature="e#11464#11793#0" expanded="false" />
+                <element signature="e#11529#11572#0" expanded="false" />
+                <element signature="e#11694#11792#0" expanded="false" />
+                <element signature="e#12247#12522#0" expanded="false" />
+                <element signature="e#12289#12486#0" expanded="false" />
+                <element signature="e#12339#12486#0" expanded="false" />
+                <element signature="e#12573#12778#0" expanded="false" />
+                <element signature="e#13043#13281#0" expanded="false" />
+                <element signature="e#13084#13281#0" expanded="false" />
+                <element signature="e#13127#13281#0" expanded="false" />
+                <element signature="e#13291#13353#0" expanded="false" />
+                <element signature="e#13675#16179#0" expanded="false" />
+                <element signature="e#13675#13737#0" expanded="false" />
+                <element signature="e#14544#15542#0" expanded="false" />
+                <element signature="e#14852#15542#0" expanded="false" />
+                <element signature="e#14911#15073#0" expanded="false" />
+                <element signature="e#14940#14988#0" expanded="false" />
+                <element signature="e#15116#15191#0" expanded="false" />
+                <element signature="e#15262#15542#0" expanded="false" />
+                <element signature="e#15415#15542#0" expanded="false" />
+                <element signature="e#15415#15457#0" expanded="false" />
+                <element signature="e#15552#15607#0" expanded="false" />
+                <element signature="e#15726#16149#0" expanded="false" />
+                <element signature="e#15787#15910#0" expanded="false" />
+                <element signature="e#15964#16149#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5126">
+              <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comapre.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="807" />
+    <option name="y" value="43" />
+    <option name="width" value="962" />
+    <option name="height" value="1029" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compareCSV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compareCSV" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="comapre" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="compareCSV" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comapre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.comapre" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d5ce425-f2ec-445c-8fe2-034f239168c1" name="Default" comment="" />
+      <created>1520428376758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520428376758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3835165" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12526652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comapre.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comapre.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="a.split(&quot;,&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comapre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7018">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50842">
+          <caret line="2318" column="8" lean-forward="false" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14300">
+          <caret line="650" column="4" lean-forward="false" selection-start-line="650" selection-start-column="4" selection-end-line="650" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+            <element signature="e#1469#1542#0" expanded="false" />
+            <element signature="e#2413#2721#0" expanded="false" />
+            <element signature="e#2755#2766#0" expanded="false" />
+            <element signature="e#2816#3046#0" expanded="false" />
+            <element signature="e#2857#2969#0" expanded="false" />
+            <element signature="e#3112#3136#0" expanded="false" />
+            <element signature="e#3170#3845#0" expanded="false" />
+            <element signature="e#3205#3265#0" expanded="false" />
+            <element signature="e#3352#3410#0" expanded="false" />
+            <element signature="e#3758#3828#0" expanded="false" />
+            <element signature="e#3996#4400#0" expanded="false" />
+            <element signature="e#4194#4303#0" expanded="false" />
+            <element signature="e#4437#4519#0" expanded="false" />
+            <element signature="e#4567#4918#0" expanded="false" />
+            <element signature="e#4612#4843#0" expanded="false" />
+            <element signature="e#4705#4843#0" expanded="false" />
+            <element signature="e#4961#5017#0" expanded="false" />
+            <element signature="e#5062#5125#0" expanded="false" />
+            <element signature="e#5272#5379#1" expanded="false" />
+            <element signature="e#5412#5515#0" expanded="false" />
+            <element signature="e#5572#6465#0" expanded="false" />
+            <element signature="e#5572#5651#1" expanded="false" />
+            <element signature="e#5826#5961#0" expanded="false" />
+            <element signature="e#6091#6210#0" expanded="false" />
+            <element signature="e#6536#9346#0" expanded="false" />
+            <element signature="e#6536#6941#1" expanded="false" />
+            <element signature="e#6986#7363#0" expanded="false" />
+            <element signature="e#7435#7576#0" expanded="false" />
+            <element signature="e#7614#7709#0" expanded="false" />
+            <element signature="e#7846#8394#0" expanded="false" />
+            <element signature="e#8003#8057#0" expanded="false" />
+            <element signature="e#8476#8665#0" expanded="false" />
+            <element signature="e#8692#8810#0" expanded="false" />
+            <element signature="e#8820#8878#0" expanded="false" />
+            <element signature="e#9407#13630#0" expanded="false" />
+            <element signature="e#9407#10370#1" expanded="false" />
+            <element signature="e#10744#12882#0" expanded="false" />
+            <element signature="e#10816#11167#0" expanded="false" />
+            <element signature="e#10855#11167#0" expanded="false" />
+            <element signature="e#11231#11858#0" expanded="false" />
+            <element signature="e#11464#11793#0" expanded="false" />
+            <element signature="e#11529#11572#0" expanded="false" />
+            <element signature="e#11694#11792#0" expanded="false" />
+            <element signature="e#12247#12522#0" expanded="false" />
+            <element signature="e#12289#12486#0" expanded="false" />
+            <element signature="e#12339#12486#0" expanded="false" />
+            <element signature="e#12573#12778#0" expanded="false" />
+            <element signature="e#13043#13281#0" expanded="false" />
+            <element signature="e#13084#13281#0" expanded="false" />
+            <element signature="e#13127#13281#0" expanded="false" />
+            <element signature="e#13291#13353#0" expanded="false" />
+            <element signature="e#13675#16179#0" expanded="false" />
+            <element signature="e#13675#13737#0" expanded="false" />
+            <element signature="e#14544#15542#0" expanded="false" />
+            <element signature="e#14852#15542#0" expanded="false" />
+            <element signature="e#14911#15073#0" expanded="false" />
+            <element signature="e#14940#14988#0" expanded="false" />
+            <element signature="e#15116#15191#0" expanded="false" />
+            <element signature="e#15262#15542#0" expanded="false" />
+            <element signature="e#15415#15542#0" expanded="false" />
+            <element signature="e#15415#15457#0" expanded="false" />
+            <element signature="e#15552#15607#0" expanded="false" />
+            <element signature="e#15726#16149#0" expanded="false" />
+            <element signature="e#15787#15910#0" expanded="false" />
+            <element signature="e#15964#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5126">
+          <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comapre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7018">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50842">
+          <caret line="2318" column="8" lean-forward="false" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14300">
+          <caret line="650" column="4" lean-forward="false" selection-start-line="650" selection-start-column="4" selection-end-line="650" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+            <element signature="e#1469#1542#0" expanded="false" />
+            <element signature="e#2413#2721#0" expanded="false" />
+            <element signature="e#2755#2766#0" expanded="false" />
+            <element signature="e#2816#3046#0" expanded="false" />
+            <element signature="e#2857#2969#0" expanded="false" />
+            <element signature="e#3112#3136#0" expanded="false" />
+            <element signature="e#3170#3845#0" expanded="false" />
+            <element signature="e#3205#3265#0" expanded="false" />
+            <element signature="e#3352#3410#0" expanded="false" />
+            <element signature="e#3758#3828#0" expanded="false" />
+            <element signature="e#3996#4400#0" expanded="false" />
+            <element signature="e#4194#4303#0" expanded="false" />
+            <element signature="e#4437#4519#0" expanded="false" />
+            <element signature="e#4567#4918#0" expanded="false" />
+            <element signature="e#4612#4843#0" expanded="false" />
+            <element signature="e#4705#4843#0" expanded="false" />
+            <element signature="e#4961#5017#0" expanded="false" />
+            <element signature="e#5062#5125#0" expanded="false" />
+            <element signature="e#5272#5379#1" expanded="false" />
+            <element signature="e#5412#5515#0" expanded="false" />
+            <element signature="e#5572#6465#0" expanded="false" />
+            <element signature="e#5572#5651#1" expanded="false" />
+            <element signature="e#5826#5961#0" expanded="false" />
+            <element signature="e#6091#6210#0" expanded="false" />
+            <element signature="e#6536#9346#0" expanded="false" />
+            <element signature="e#6536#6941#1" expanded="false" />
+            <element signature="e#6986#7363#0" expanded="false" />
+            <element signature="e#7435#7576#0" expanded="false" />
+            <element signature="e#7614#7709#0" expanded="false" />
+            <element signature="e#7846#8394#0" expanded="false" />
+            <element signature="e#8003#8057#0" expanded="false" />
+            <element signature="e#8476#8665#0" expanded="false" />
+            <element signature="e#8692#8810#0" expanded="false" />
+            <element signature="e#8820#8878#0" expanded="false" />
+            <element signature="e#9407#13630#0" expanded="false" />
+            <element signature="e#9407#10370#1" expanded="false" />
+            <element signature="e#10744#12882#0" expanded="false" />
+            <element signature="e#10816#11167#0" expanded="false" />
+            <element signature="e#10855#11167#0" expanded="false" />
+            <element signature="e#11231#11858#0" expanded="false" />
+            <element signature="e#11464#11793#0" expanded="false" />
+            <element signature="e#11529#11572#0" expanded="false" />
+            <element signature="e#11694#11792#0" expanded="false" />
+            <element signature="e#12247#12522#0" expanded="false" />
+            <element signature="e#12289#12486#0" expanded="false" />
+            <element signature="e#12339#12486#0" expanded="false" />
+            <element signature="e#12573#12778#0" expanded="false" />
+            <element signature="e#13043#13281#0" expanded="false" />
+            <element signature="e#13084#13281#0" expanded="false" />
+            <element signature="e#13127#13281#0" expanded="false" />
+            <element signature="e#13291#13353#0" expanded="false" />
+            <element signature="e#13675#16179#0" expanded="false" />
+            <element signature="e#13675#13737#0" expanded="false" />
+            <element signature="e#14544#15542#0" expanded="false" />
+            <element signature="e#14852#15542#0" expanded="false" />
+            <element signature="e#14911#15073#0" expanded="false" />
+            <element signature="e#14940#14988#0" expanded="false" />
+            <element signature="e#15116#15191#0" expanded="false" />
+            <element signature="e#15262#15542#0" expanded="false" />
+            <element signature="e#15415#15542#0" expanded="false" />
+            <element signature="e#15415#15457#0" expanded="false" />
+            <element signature="e#15552#15607#0" expanded="false" />
+            <element signature="e#15726#16149#0" expanded="false" />
+            <element signature="e#15787#15910#0" expanded="false" />
+            <element signature="e#15964#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5126">
+          <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comapre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7018">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50842">
+          <caret line="2318" column="8" lean-forward="false" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14300">
+          <caret line="650" column="4" lean-forward="false" selection-start-line="650" selection-start-column="4" selection-end-line="650" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+            <element signature="e#1469#1542#0" expanded="false" />
+            <element signature="e#2413#2721#0" expanded="false" />
+            <element signature="e#2755#2766#0" expanded="false" />
+            <element signature="e#2816#3046#0" expanded="false" />
+            <element signature="e#2857#2969#0" expanded="false" />
+            <element signature="e#3112#3136#0" expanded="false" />
+            <element signature="e#3170#3845#0" expanded="false" />
+            <element signature="e#3205#3265#0" expanded="false" />
+            <element signature="e#3352#3410#0" expanded="false" />
+            <element signature="e#3758#3828#0" expanded="false" />
+            <element signature="e#3996#4400#0" expanded="false" />
+            <element signature="e#4194#4303#0" expanded="false" />
+            <element signature="e#4437#4519#0" expanded="false" />
+            <element signature="e#4567#4918#0" expanded="false" />
+            <element signature="e#4612#4843#0" expanded="false" />
+            <element signature="e#4705#4843#0" expanded="false" />
+            <element signature="e#4961#5017#0" expanded="false" />
+            <element signature="e#5062#5125#0" expanded="false" />
+            <element signature="e#5272#5379#1" expanded="false" />
+            <element signature="e#5412#5515#0" expanded="false" />
+            <element signature="e#5572#6465#0" expanded="false" />
+            <element signature="e#5572#5651#1" expanded="false" />
+            <element signature="e#5826#5961#0" expanded="false" />
+            <element signature="e#6091#6210#0" expanded="false" />
+            <element signature="e#6536#9346#0" expanded="false" />
+            <element signature="e#6536#6941#1" expanded="false" />
+            <element signature="e#6986#7363#0" expanded="false" />
+            <element signature="e#7435#7576#0" expanded="false" />
+            <element signature="e#7614#7709#0" expanded="false" />
+            <element signature="e#7846#8394#0" expanded="false" />
+            <element signature="e#8003#8057#0" expanded="false" />
+            <element signature="e#8476#8665#0" expanded="false" />
+            <element signature="e#8692#8810#0" expanded="false" />
+            <element signature="e#8820#8878#0" expanded="false" />
+            <element signature="e#9407#13630#0" expanded="false" />
+            <element signature="e#9407#10370#1" expanded="false" />
+            <element signature="e#10744#12882#0" expanded="false" />
+            <element signature="e#10816#11167#0" expanded="false" />
+            <element signature="e#10855#11167#0" expanded="false" />
+            <element signature="e#11231#11858#0" expanded="false" />
+            <element signature="e#11464#11793#0" expanded="false" />
+            <element signature="e#11529#11572#0" expanded="false" />
+            <element signature="e#11694#11792#0" expanded="false" />
+            <element signature="e#12247#12522#0" expanded="false" />
+            <element signature="e#12289#12486#0" expanded="false" />
+            <element signature="e#12339#12486#0" expanded="false" />
+            <element signature="e#12573#12778#0" expanded="false" />
+            <element signature="e#13043#13281#0" expanded="false" />
+            <element signature="e#13084#13281#0" expanded="false" />
+            <element signature="e#13127#13281#0" expanded="false" />
+            <element signature="e#13291#13353#0" expanded="false" />
+            <element signature="e#13675#16179#0" expanded="false" />
+            <element signature="e#13675#13737#0" expanded="false" />
+            <element signature="e#14544#15542#0" expanded="false" />
+            <element signature="e#14852#15542#0" expanded="false" />
+            <element signature="e#14911#15073#0" expanded="false" />
+            <element signature="e#14940#14988#0" expanded="false" />
+            <element signature="e#15116#15191#0" expanded="false" />
+            <element signature="e#15262#15542#0" expanded="false" />
+            <element signature="e#15415#15542#0" expanded="false" />
+            <element signature="e#15415#15457#0" expanded="false" />
+            <element signature="e#15552#15607#0" expanded="false" />
+            <element signature="e#15726#16149#0" expanded="false" />
+            <element signature="e#15787#15910#0" expanded="false" />
+            <element signature="e#15964#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5126">
+          <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/csv.Sniffer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>csv.Sniffer</OriginalElement>
+          <nodes>
+            <node x="" y="">_collections_abc.Hashable</node>
+            <node x="" y="">csv.Sniffer</node>
+            <node x="" y="">object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="76.0" y="97.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+            <element signature="e#1469#1542#0" expanded="false" />
+            <element signature="e#2413#2721#0" expanded="false" />
+            <element signature="e#2755#2766#0" expanded="false" />
+            <element signature="e#2816#3046#0" expanded="false" />
+            <element signature="e#2857#2969#0" expanded="false" />
+            <element signature="e#3112#3136#0" expanded="false" />
+            <element signature="e#3170#3845#0" expanded="false" />
+            <element signature="e#3205#3265#0" expanded="false" />
+            <element signature="e#3352#3410#0" expanded="false" />
+            <element signature="e#3758#3828#0" expanded="false" />
+            <element signature="e#3996#4400#0" expanded="false" />
+            <element signature="e#4194#4303#0" expanded="false" />
+            <element signature="e#4437#4519#0" expanded="false" />
+            <element signature="e#4567#4918#0" expanded="false" />
+            <element signature="e#4612#4843#0" expanded="false" />
+            <element signature="e#4705#4843#0" expanded="false" />
+            <element signature="e#4961#5017#0" expanded="false" />
+            <element signature="e#5062#5125#0" expanded="false" />
+            <element signature="e#5272#5379#1" expanded="false" />
+            <element signature="e#5412#5515#0" expanded="false" />
+            <element signature="e#5572#6465#0" expanded="false" />
+            <element signature="e#5572#5651#1" expanded="false" />
+            <element signature="e#5826#5961#0" expanded="false" />
+            <element signature="e#6091#6210#0" expanded="false" />
+            <element signature="e#6536#9346#0" expanded="false" />
+            <element signature="e#6536#6941#1" expanded="false" />
+            <element signature="e#6986#7363#0" expanded="false" />
+            <element signature="e#7435#7576#0" expanded="false" />
+            <element signature="e#7614#7709#0" expanded="false" />
+            <element signature="e#7846#8394#0" expanded="false" />
+            <element signature="e#8003#8057#0" expanded="false" />
+            <element signature="e#8476#8665#0" expanded="false" />
+            <element signature="e#8692#8810#0" expanded="false" />
+            <element signature="e#8820#8878#0" expanded="false" />
+            <element signature="e#9407#13630#0" expanded="false" />
+            <element signature="e#9407#10370#1" expanded="false" />
+            <element signature="e#10744#12882#0" expanded="false" />
+            <element signature="e#10816#11167#0" expanded="false" />
+            <element signature="e#10855#11167#0" expanded="false" />
+            <element signature="e#11231#11858#0" expanded="false" />
+            <element signature="e#11464#11793#0" expanded="false" />
+            <element signature="e#11529#11572#0" expanded="false" />
+            <element signature="e#11694#11792#0" expanded="false" />
+            <element signature="e#12247#12522#0" expanded="false" />
+            <element signature="e#12289#12486#0" expanded="false" />
+            <element signature="e#12339#12486#0" expanded="false" />
+            <element signature="e#12573#12778#0" expanded="false" />
+            <element signature="e#13043#13281#0" expanded="false" />
+            <element signature="e#13084#13281#0" expanded="false" />
+            <element signature="e#13127#13281#0" expanded="false" />
+            <element signature="e#13291#13353#0" expanded="false" />
+            <element signature="e#13675#16179#0" expanded="false" />
+            <element signature="e#13675#13737#0" expanded="false" />
+            <element signature="e#14544#15542#0" expanded="false" />
+            <element signature="e#14852#15542#0" expanded="false" />
+            <element signature="e#14911#15073#0" expanded="false" />
+            <element signature="e#14940#14988#0" expanded="false" />
+            <element signature="e#15116#15191#0" expanded="false" />
+            <element signature="e#15262#15542#0" expanded="false" />
+            <element signature="e#15415#15542#0" expanded="false" />
+            <element signature="e#15415#15457#0" expanded="false" />
+            <element signature="e#15552#15607#0" expanded="false" />
+            <element signature="e#15726#16149#0" expanded="false" />
+            <element signature="e#15787#15910#0" expanded="false" />
+            <element signature="e#15964#16149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50842">
+          <caret line="2318" column="8" lean-forward="false" selection-start-line="2318" selection-start-column="8" selection-end-line="2318" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5126">
+          <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7018">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1047607098/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14300">
+          <caret line="650" column="4" lean-forward="false" selection-start-line="650" selection-start-column="4" selection-end-line="650" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Anaconda/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comapre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
