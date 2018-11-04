@@ -1,12 +1,20 @@
-import json
-from collections import Counter
-from pandas import DataFrame, Series
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+class U:
+    def __init__(self, name):
+        self.name = name
+        self.p = []
 
-users= pd.read_table('source\\users.dat',sep='::', header=0,names =['user_ id', 'gender', 'age', 'occupation', 'zip']  )
+    def _g(self, name):
+        self.p.append(name)
+
+    @property
+    def revenge(self):
+        print("10 year later...")
+        for person in self.p:
+            print("{0} stomps on {1}".format(self.name, person))
 
 
-
+j = U("aa")
+j.g("Tarek")
+j.g("Bill")
+j.revenge()
 pass
