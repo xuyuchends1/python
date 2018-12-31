@@ -5,58 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c026bba4-5d9c-4ba6-9948-c7691c51da90" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/phil.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automate/1.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automate/3.5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/10/10.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/11/11.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/11/11.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/11/11.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/13/13.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/14/14.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/20/20.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/20/20.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/20/20.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/3/3.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/3/3.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/5/5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/5/5.22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/5/5.23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/5/5.24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/5/5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/6/6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/6/6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/9/9.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fluent Python/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingTongShuJuKeXue/4/4.2.1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JingTongShuJuKeXue/4/4.2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/2/manhadundistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/3/xietongguolv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/athletesTestSet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/4/athletesTrainingSet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Data Science Guide/1.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Data Science Handbook/chapter3/3.10.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Data Science Handbook/chapter5/5.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Design/singleton/Danlimoshi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python practice of data analysis and mining/chapter5/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python practice of data analysis and mining/chapter5/5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python practice of data analysis and mining/chapter5/bankloan.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Vector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/splitpochanjiemei.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers Guide to data mining/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QT/AutoBuildUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginning python/9.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals of python/3/3.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice of data analysis and mining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python practice of data analysis and mining/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,52 +82,16 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1504944364">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="pimaSmall-01" value="4" />
-          <entry key="pimaSmall-02" value="2" />
-          <entry key="py" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1149" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1149" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py">
+        <entry file="file://$PROJECT_DIR$/QT/AutoBuildUI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -177,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Anaconda3/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6820">
+            <state relative-caret-position="534">
               <caret line="310" selection-start-line="310" selection-end-line="310" />
             </state>
           </provider>
@@ -199,6 +121,7 @@
       <find>tips</find>
       <find>normalize</find>
       <find>heapq</find>
+      <find>setCentralWidget</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -207,13 +130,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Fluent Python/2.23.py" />
-        <option value="$PROJECT_DIR$/Fluent Python/3.1.py" />
-        <option value="$PROJECT_DIR$/Fluent Python/3.2.py" />
-        <option value="$PROJECT_DIR$/Automate/1.5.py" />
-        <option value="$PROJECT_DIR$/Automate/3.5.2.py" />
         <option value="$PROJECT_DIR$/test/test5.py" />
-        <option value="$PROJECT_DIR$/test/test4.py" />
         <option value="$PROJECT_DIR$/python practice of data analysis and mining/chapter5/5.1.py" />
         <option value="$PROJECT_DIR$/python practice of data analysis and mining/chapter5/5.2.py" />
         <option value="$PROJECT_DIR$/Python Design/singleton/Danlimoshi.py" />
@@ -258,6 +175,12 @@
         <option value="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.py" />
         <option value="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.1.py" />
         <option value="$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py" />
+        <option value="$PROJECT_DIR$/fundamentals of python/3/3.1.py" />
+        <option value="$PROJECT_DIR$/beginning python/9.3.1.py" />
+        <option value="$PROJECT_DIR$/test/test4.py" />
+        <option value="$PROJECT_DIR$/QT/mainwindows.py" />
+        <option value="$PROJECT_DIR$/QT/dialog.py" />
+        <option value="$PROJECT_DIR$/QT/AutoBuildUI.py" />
       </list>
     </option>
   </component>
@@ -267,9 +190,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="971" />
-    <option name="width" value="932" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="399" />
+    <option name="y" value="61" />
+    <option name="width" value="1314" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -362,64 +286,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Default'; set:Default; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Python Data Science Guide" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Python Data Science Guide" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -454,13 +320,49 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Default'; set:Default; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Programmers Guide to data mining" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python Data Science Guide" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="QT" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Anaconda3/python.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -499,8 +401,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6.1">
-    <configuration name="4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.AutoBuildUI">
+    <configuration name="9.3.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -508,12 +410,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers Guide to data mining/4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beginning python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers Guide to data mining/4/4.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginning python/9.3.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -522,7 +423,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="AutoBuildUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -530,12 +431,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers Guide to data mining/4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers Guide to data mining/4/4.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QT/AutoBuildUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -544,7 +444,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -552,12 +452,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers Guide to data mining/5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QT/dialog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -566,7 +465,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.1.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainwindows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -574,11 +473,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers Guide to data mining/5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers Guide to data mining/5/5.1.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QT/mainwindows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -587,7 +486,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -595,11 +494,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers Guide to data mining/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,19 +508,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4.4" />
-      <item itemvalue="Python.4.5" />
-      <item itemvalue="Python.5.1" />
-      <item itemvalue="Python.5.1.1" />
-      <item itemvalue="Python.6.1" />
+      <item itemvalue="Python.9.3.1" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.mainwindows" />
+      <item itemvalue="Python.dialog" />
+      <item itemvalue="Python.AutoBuildUI" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.1" />
-        <item itemvalue="Python.5.1.1" />
-        <item itemvalue="Python.5.1" />
-        <item itemvalue="Python.4.5" />
-        <item itemvalue="Python.4.4" />
+        <item itemvalue="Python.AutoBuildUI" />
+        <item itemvalue="Python.dialog" />
+        <item itemvalue="Python.mainwindows" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.9.3.1" />
       </list>
     </recent_temporary>
   </component>
@@ -649,14 +548,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49301827" visible="true" weight="0.170706" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49301827" visible="true" weight="0.170706" />
       <window_info id="Structure" order="1" weight="0.24973656" />
       <window_info id="Favorites" order="2" sideWeight="0.50698173" side_tool="true" weight="0.170706" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.576226" weight="0.32867885" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.77878463" weight="0.3254565" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.576226" weight="0.32832617" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.77878463" visible="true" weight="0.3251073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49573562" weight="0.27559054" />
@@ -664,7 +564,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.48933902" weight="0.3281768" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5751599" weight="0.3281768" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22121535" side_tool="true" weight="0.2792696" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.7425373" weight="0.2878625" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.7425373" weight="0.28755364" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32928178" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -675,9 +575,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -715,11 +612,6 @@
           <url>file://$PROJECT_DIR$/test/test5.py</url>
           <line>5</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test/test4.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python practice of data analysis and mining/chapter5/5.1.py</url>
@@ -896,6 +788,16 @@
           <line>40</line>
           <option name="timeStamp" value="257" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/beginning python/9.3.1.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QT/AutoBuildUI.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -907,12 +809,13 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="self.prior.items" />
-        <watch expression="v.values()" language="Python" />
-        <watch expression="count" />
-        <watch expression="totals.values().values()" language="Python" />
-        <watch expression="self.totals.values()" />
-        <watch expression="v2" />
+        <watch expression="os.path.splitext(files)" />
+        <watch expression="ui_files.count()" />
+        <watch expression="ui_files" />
+        <watch expression="os.path.splitext(file)[0]" />
+        <watch expression="os.path.join(os.path.splitext(file)[0],'.py')" />
+        <watch expression="os.path.splitext(file)[0]" />
+        <watch expression="os.path.join(os.path.splitext(file)[0],'.py')" />
       </configuration>
     </watches-manager>
   </component>
@@ -1018,67 +921,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fluent Python/2/2.10.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent Python/2/2.13.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/abc.py" />
-    <entry file="file://$PROJECT_DIR$/Fluent Python/5/5.8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent Python/5/5.22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent Python/5/5.23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/operator.py" />
-    <entry file="file://$PROJECT_DIR$/Fluent Python/5/5.24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31559">
-          <caret line="1661" selection-start-line="1661" selection-end-line="1661" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent Python/6/6.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#0#34#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent Python/6/6.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-946255732/builtins.py" />
     <entry file="file://$PROJECT_DIR$/test/splitpochanjiemei.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1202,13 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fluent Python/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1327,15 +1162,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Programmers Guide to data mining/6/6.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="757">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentals of python/3/3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compareCSV/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ipaddress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="1892" column="12" selection-start-line="1892" selection-start-column="12" selection-end-line="1892" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1013586911/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="5263" column="34" lean-forward="true" selection-start-line="5256" selection-start-column="7" selection-end-line="5263" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QT/ss.py" />
+    <entry file="file://$PROJECT_DIR$/test/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginning python/9.3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QT/dialog.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QT/dialog.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QT/QT.py" />
+    <entry file="file://$PROJECT_DIR$/QT/mainwindows.py" />
+    <entry file="file://$PROJECT_DIR$/QT/dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Anaconda3/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6820">
+        <state relative-caret-position="534">
           <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QT/AutoBuildUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
