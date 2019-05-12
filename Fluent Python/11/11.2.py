@@ -1,7 +1,7 @@
 class Vector:
-    def __init__(self,x,y):
-        self.__x=float(x)
-        self.__y=float(y)
+    def __init__(self, x, y):
+        self.__x = float(x)
+        self.__y = float(y)
 
     @property
     def x(self):
@@ -12,4 +12,4 @@ class Vector:
         return self.__y
 
     def __iter__(self):
-        return (i for i in (self.x,self.y))
+        return (i for i in (self.x, self.y))
