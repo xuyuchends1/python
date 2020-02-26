@@ -120,6 +120,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyside2" />
@@ -257,8 +259,8 @@
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2" />
       <item itemvalue="Python.test1 (1)" />
-      <item itemvalue="Python tests.pytest for test2.PythonOrgSearch.test_search_in_python_org" />
       <item itemvalue="Python.test5" />
+      <item itemvalue="Python tests.pytest for test2.PythonOrgSearch.test_search_in_python_org" />
     </list>
     <recent_temporary>
       <list>
