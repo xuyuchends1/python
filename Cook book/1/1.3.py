@@ -1,3 +1,4 @@
+# 保存最后N的元素
 from _collections import deque
 
 

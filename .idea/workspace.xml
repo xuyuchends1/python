@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c026bba4-5d9c-4ba6-9948-c7691c51da90" name="Default" comment="delete">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/selenium-python-readthedocs-io-en-latest.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test4/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test4/page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test4/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+    <list default="true" id="c026bba4-5d9c-4ba6-9948-c7691c51da90" name="Default" comment="dff">
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cook book/1/1.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cook book/1/1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cook book/1/1.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +122,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyside2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -142,6 +137,11 @@
     <option name="myUseBundledCoveragePy" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\python\fundamentals of python" />
+      <recent name="E:\phil\workspace\selfwork\python\Fluent Python\1" />
+      <recent name="E:\phil\workspace\selfwork\python\Python Data Science Handbook" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\phil\workspace\selfwork\python\Programmers Guide to data mining\4" />
       <recent name="E:\phil\workspace\selfwork\python\JingTongShuJuKeXue\4" />
@@ -149,14 +149,9 @@
       <recent name="E:\phil\workspace\selfwork\python\qt5\untitled1" />
       <recent name="E:\phil\workspace\selfwork\python\Python Data Science Handbook\chapter3" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workspace\python\fundamentals of python" />
-      <recent name="E:\phil\workspace\selfwork\python\Fluent Python\1" />
-      <recent name="E:\phil\workspace\selfwork\python\Python Data Science Handbook" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.test5">
-    <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1.9">
+    <configuration name="1.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cook book/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cook book/1/1.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cook book/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cook book/1/1.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cook book/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cook book/1/1.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cook book/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cook book/1/1.8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,35 +235,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test2.PythonOrgSearch.test_search_in_python_org" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="1.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cook book/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test2.PythonOrgSearch.test_search_in_python_org&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cook book/1/1.9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test1" />
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.test1 (1)" />
-      <item itemvalue="Python.test5" />
-      <item itemvalue="Python tests.pytest for test2.PythonOrgSearch.test_search_in_python_org" />
+      <item itemvalue="Python.1.4" />
+      <item itemvalue="Python.1.6" />
+      <item itemvalue="Python.1.7" />
+      <item itemvalue="Python.1.8" />
+      <item itemvalue="Python.1.9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test5" />
-        <item itemvalue="Python tests.pytest for test2.PythonOrgSearch.test_search_in_python_org" />
-        <item itemvalue="Python.test1 (1)" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.1.9" />
+        <item itemvalue="Python.1.8" />
+        <item itemvalue="Python.1.7" />
+        <item itemvalue="Python.1.6" />
+        <item itemvalue="Python.1.4" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582432887931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dff">
+      <created>1582688915046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582688915046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -306,11 +314,17 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Cook book/pyside2" />
+      <path value="$PROJECT_DIR$/pyside2" />
     </ignored-roots>
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="dff" />
+    <option name="LAST_COMMIT_MESSAGE" value="dff" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="804" y="357" width="565" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582440403322">
@@ -321,57 +335,69 @@
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
     <state x="661" y="172" width="642" height="761" key="#test1_(1)/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582437208266" />
-    <state x="606" y="144" width="753" height="816" key="CommitChangelistDialog2" timestamp="1582438387586">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="567" y="117" width="753" height="816" key="CommitChangelistDialog2" timestamp="1582688910556">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="567" y="117" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582688910556" />
     <state x="606" y="144" width="753" height="816" key="CommitChangelistDialog2/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582438387586" />
     <state x="770" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582433062121">
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
     <state x="770" y="310" width="424" height="484" key="FileChooserDialogImpl/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582433062121" />
-    <state width="1842" height="311" key="GridCell.Tab.0.bottom" timestamp="1582441642692">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.0.bottom" timestamp="1582880838632">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838632" />
     <state width="1842" height="311" key="GridCell.Tab.0.bottom/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441642692" />
-    <state width="1842" height="311" key="GridCell.Tab.0.center" timestamp="1582441642692">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.0.center" timestamp="1582880838632">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838632" />
     <state width="1842" height="311" key="GridCell.Tab.0.center/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441642692" />
-    <state width="1842" height="311" key="GridCell.Tab.0.left" timestamp="1582441642692">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.0.left" timestamp="1582880838632">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838632" />
     <state width="1842" height="311" key="GridCell.Tab.0.left/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441642692" />
-    <state width="1842" height="311" key="GridCell.Tab.0.right" timestamp="1582441642692">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.0.right" timestamp="1582880838632">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838632" />
     <state width="1842" height="311" key="GridCell.Tab.0.right/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441642692" />
-    <state width="1842" height="311" key="GridCell.Tab.1.bottom" timestamp="1582441638927">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.1.bottom" timestamp="1582880838565">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838565" />
     <state width="1842" height="311" key="GridCell.Tab.1.bottom/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441638927" />
-    <state width="1842" height="311" key="GridCell.Tab.1.center" timestamp="1582441638926">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.1.center" timestamp="1582880838565">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838565" />
     <state width="1842" height="311" key="GridCell.Tab.1.center/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441638926" />
-    <state width="1842" height="311" key="GridCell.Tab.1.left" timestamp="1582441638926">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.1.left" timestamp="1582880838565">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838565" />
     <state width="1842" height="311" key="GridCell.Tab.1.left/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441638926" />
-    <state width="1842" height="311" key="GridCell.Tab.1.right" timestamp="1582441638926">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state width="1899" height="350" key="GridCell.Tab.1.right" timestamp="1582880838565">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582880838565" />
     <state width="1842" height="311" key="GridCell.Tab.1.right/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582441638926" />
-    <state x="556" y="166" key="SettingsEditor" timestamp="1582434321943">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="516" y="139" key="SettingsEditor" timestamp="1582698948227">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="516" y="139" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582698948227" />
     <state x="556" y="166" key="SettingsEditor/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582434321943" />
-    <state x="582" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582432896169">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="543" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582688920480">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="543" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582688920480" />
     <state x="582" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582432896169" />
-    <state x="643" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582433651459">
-      <screen x="55" y="27" width="1865" height="1053" />
+    <state x="605" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1582878271927">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="605" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1582878271927" />
     <state x="643" y="380" key="com.intellij.ide.util.TipDialog/55.27.1865.1053/1920.0.1920.1080@55.27.1865.1053" timestamp="1582433651459" />
   </component>
   <component name="XDebuggerManager">
@@ -631,6 +657,11 @@
           <line>16</line>
           <option name="timeStamp" value="302" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cook book/1/1.8.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -651,109 +682,9 @@
         <watch expression="msg.format(cls,item)" language="Python" />
         <watch expression="msg.format(cls,item)" />
         <watch expression="msg.format(cls.__name__,item)" />
+        <watch expression="zip(prices.values(),prices.keys())" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>msg.format(cls,item)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>cls.__name__</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>msg.format(cls=cls)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>v.values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>totals.values().values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>totals.values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>totals[category]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>self.data</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(72-median)/asd</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(72-median)/float(asd)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>sorted(distance_list.items(),key=lambda x:x[1] )</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>items</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>str(goods[index])+'_'+ str(goods[index+1])</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>item[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>averages[item[x]]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>averages</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>temp</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>users3.values().values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>users3.values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
